@@ -75,7 +75,6 @@ Working with both relational and NoSQL databases, caching, and useful external t
 I'm always open to discussing new projects, collaborations, or job opportunities. Feel free to reach out!
 
 ### My Key Resources:
-* 👨‍💻 **Portfolio Site:** [sagar-portfolio-ecru.vercel.app](https://sagar-portfolio-ecru.vercel.app/)
 * 📄 **Resume Link:** [View My Resume](https://drive.google.com/file/d/17am_fZetABJW9YcuNEZWkCr2onBx9hkP/view?usp=sharing)
 * 📧 **Direct Email:** **jadhavsagar1505@gmail.com**
 
